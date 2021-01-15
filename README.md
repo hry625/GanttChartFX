@@ -9,7 +9,7 @@ A GanttChart table written by JavaFX
 3. Modify the default.css file to style the Gantt chart as you prefer.
 
 
-## Knowing issue
+## Known issue
 You may find the date part of activity row becomes empty after you collapse and re-extend the children activity rows.
 I have no clue how to solve this problem. 
 If someone figure out how to fix it, please let me know.

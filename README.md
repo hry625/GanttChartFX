@@ -1,5 +1,6 @@
 # GanttChartFX
 A GanttChart table written by JavaFX
+![Gantt chart sample](/img/ganttchart.png)
 
 ## How to modify the Gantt chart to fit your need:
 1. You may want to change the projectActivity to fit your project.

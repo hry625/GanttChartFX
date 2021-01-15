@@ -1,0 +1,74 @@
+.gantt-chart-week-column {
+    -fx-text-fill: #000;
+    -fx-font-weight: normal;
+    -fx-font-size: 0.8em;
+}
+
+.gantt-chart-day-column {
+    -fx-text-fill: #000;
+    -fx-font-weight: normal;
+    -fx-font-size: 0.7em;
+}
+
+.gantt-chart-day-column-weekend {
+    -fx-background-color: #e9ecef;
+    -fx-fill: #e56767;
+    -fx-text-fill: #e56767;
+    -fx-font-weight: normal;
+    -fx-font-size: 0.8em;
+}
+
+.gantt-chart-day-column-weekday {
+    -fx-background-color: #fff;
+    -fx-text-fill: #3b4654;
+    -fx-font-weight: normal;
+    -fx-font-size: 0.8em;
+}
+
+.gantt-chart-cell-empty {
+    -fx-background-color: #fff;
+}
+
+.gantt-chart-cell-holiday {
+    -fx-background-color: #e56767;
+}
+
+.gantt-chart-cell {
+    -fx-background-color: #e0effa;
+    -fx-text-fill: #e0effa;
+}
+
+.gantt-chart-cell1 {
+    -fx-background-color: #1f77b4;
+    -fx-text-fill: #1f77b4;
+}
+
+.gantt-chart-cell2 {
+    -fx-background-color: #2ca02c;
+    -fx-text-fill: #2ca02c;
+}
+
+.gantt-chart-cell3 {
+    -fx-background-color: #d62728;
+    -fx-text-fill: #d62728;
+}
+
+.gantt-chart-cell4 {
+    -fx-background-color: #8c564b;
+    -fx-text-fill: #8c564b;
+}
+
+.gantt-chart-cell5 {
+    -fx-background-color: #bcbd22;
+    -fx-text-fill: #bcbd22;
+}
+
+.gantt-chart-cell6 {
+    -fx-background-color: #17becf;
+    -fx-text-fill: #17becf;
+}
+
+.gantt-chart-cell7 {
+    -fx-background-color: #ff7f0e;
+    -fx-text-fill: #ff7f0e;
+}
